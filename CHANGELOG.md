@@ -7,9 +7,9 @@
 ### Fixed
 - Compatibility with mail.ru and some other sites.
 
-## [1.1] 2016-08-10
+## [1.1] - 2016-08-10
 ### Fixed
 - Incorrect parsing titles.
 
-## [1.0] 2016-08-10
+## [1.0] - 2016-08-10
 First public release.
