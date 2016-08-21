@@ -4,7 +4,7 @@
 	<title>Meow! Links</title>
 	<description>Catlord Meow!'s URL tools. Replace URL title with page title, auto detect pictures, auto detect videos.</description>
 	<version>1.2</version>
-	<url>https://github.com/CatlordMeow/</url>
+	<url>https://github.com/CatlordMeow/Meow-Links</url>
 	<versioncheckurl />
 	<dependencies>
 		<dependency dependencytype="vbulletin" minversion="3.6.0" maxversion="4.9.9" />
@@ -62,7 +62,7 @@
  * @license  http://www.gnu.org/copyleft/gpl.html GNU GPL v3
  * @version  1.2
  * @date     2016-08-21
- * @link     https://github.com/CatlordMeow/Misc
+ * @link     https://github.com/CatlordMeow/Meow-Links
  */
 
 if (!function_exists('meow_url_to_bbcode')) {

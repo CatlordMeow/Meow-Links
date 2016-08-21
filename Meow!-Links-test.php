@@ -10,7 +10,7 @@
  * @license  http://www.gnu.org/copyleft/gpl.html GNU GPL v3
  * @version  1.1
  * @date     2016-08-14
- * @link     https://github.com/CatlordMeow/Misc
+ * @link     https://github.com/CatlordMeow/Meow-Links
  */
 
 $messagetext = '
