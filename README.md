@@ -7,14 +7,18 @@ By default, vBulletin just wraps them inside url code.
 ## What Meow! Links Does
 - URL title is getting replaced with a title of referenced page;
 so, after installing this product, all newly posted links will be looking like this:
+
 [PHP: Hypertext Preprocessor](http://php.net)
+
 [Stack Overflow](http://stackoverflow.com/)
+
 [/b/ - Random - 4chan](http://boards.4chan.org/b/)
 - Links to pictures will be wrapped inside img code; so, instead of link, an image itself will be shown.
 Detecting 'is it picture or not' is made by extension (.gif, .jpg, .png...).
 - Links to videos on YouTube will be wrapped inside video code.
 
 The product can be configured.
+
 Default language is English, Russian translation is provided.
 
 ## Installation
@@ -37,8 +41,11 @@ Patch for encoding detection is made by kerk.
 
 ## Additional Information
 IMPORTANT: for creating 'beautified' links forum will download a page for every link.
-In fact, users of your forum will be giving orders to your server for connection and downloading by random addresses on Internet. 
+
+In fact, users of your forum will be giving orders to your server for connection and downloading by random addresses on Internet.
+
 If some user posts 10 links, there will be 10 connections and downloads.
+
 If 100 (hundred) links -- 100 connections will happen.
 
 ## See also
