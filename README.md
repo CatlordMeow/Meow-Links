@@ -18,6 +18,7 @@ The product can be configured.
 
 Default language is English, Russian translation is provided.
 
+<img src="https://raw.githubusercontent.com/CatlordMeow/Meow-Links/master/screenshot.png" width="48">
 ![Screenshot](https://raw.githubusercontent.com/CatlordMeow/Meow-Links/master/screenshot.png)
 
 ## Installation
