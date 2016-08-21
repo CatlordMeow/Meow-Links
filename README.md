@@ -1,7 +1,7 @@
 # Meow-Links
 Required version of vBulletin: 4, although I want to believe that it will work on vB 3, too.
 
-This product changes the way forum handles links in new messages those aren't inside of any BB codes.
+This product changes the way forum handles links in new messages those aren't inside of any BB codes.  
 By default, vBulletin just wraps them inside url code.
 
 ## What Meow! Links Does
@@ -10,7 +10,7 @@ so, after installing this product, all newly posted links will be looking like t
 [PHP: Hypertext Preprocessor](http://php.net)  
 [Stack Overflow](http://stackoverflow.com/)  
 [/b/ - Random - 4chan](http://boards.4chan.org/b/)  
-- Links to pictures will be wrapped inside img code; so, instead of link, an image itself will be shown.
+- Links to pictures will be wrapped inside img code; so, instead of link, an image itself will be shown.  
 Detecting 'is it picture or not' is made by extension (.gif, .jpg, .png...).
 - Links to videos on YouTube will be wrapped inside video code.
 
@@ -37,12 +37,9 @@ Patch for encoding detection is made by kerk.
 - Encoding detection. Will work with non-English pages (I hope).
 
 ## Additional Information
-IMPORTANT: for creating 'beautified' links forum will download a page for every link.
-
-In fact, users of your forum will be giving orders to your server for connection and downloading by random addresses on Internet.
-
-If some user posts 10 links, there will be 10 connections and downloads.
-
+IMPORTANT: for creating 'beautified' links forum will download a page for every link.  
+In fact, users of your forum will be giving orders to your server for connection and downloading by random addresses on Internet.  
+If some user posts 10 links, there will be 10 connections and downloads.  
 If 100 (hundred) links -- 100 connections will happen.
 
 ## See also
