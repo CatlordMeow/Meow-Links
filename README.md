@@ -9,9 +9,7 @@ By default, vBulletin just wraps them inside url code.
 so, after installing this product, all newly posted links will be looking like this:
 
 [PHP: Hypertext Preprocessor](http://php.net)
-
 [Stack Overflow](http://stackoverflow.com/)
-
 [/b/ - Random - 4chan](http://boards.4chan.org/b/)
 - Links to pictures will be wrapped inside img code; so, instead of link, an image itself will be shown.
 Detecting 'is it picture or not' is made by extension (.gif, .jpg, .png...).
