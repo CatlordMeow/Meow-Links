@@ -18,6 +18,8 @@ The product can be configured.
 
 Default language is English, Russian translation is provided.
 
+![Screenshot](https://raw.githubusercontent.com/CatlordMeow/Meow-Links/master/screenshot.png)
+
 ## Installation
 Admin Control Panel => Plugins & Products => Manage Products => Add/Import Product => Browse => pick Meow!-Links-1.x.xml => Import.
 
