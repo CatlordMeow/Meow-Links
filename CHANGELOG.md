@@ -7,6 +7,9 @@
 ### Fixed
 - Compatibility with mail.ru and some other sites.
 
+### Removed
+- 'Maximum number of buffers' setting.
+
 ## [1.1] - 2016-08-10
 ### Fixed
 - Incorrect parsing titles.
