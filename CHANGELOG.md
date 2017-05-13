@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.3] - 2017-05-13
+### Fixed
+- Compatibility with servers those compress pages; now add-on does request uncompressed data explicitly.
+
 ## [1.2] - 2016-08-21
 ### Added
 - 'Timeout per url' and 'Buffer size' settings.
